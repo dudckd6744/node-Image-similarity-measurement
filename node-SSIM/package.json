@@ -1,0 +1,18 @@
+{
+  "name": "image-similarity-measurement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "canvas": "^2.9.1",
+    "image-type": "^4.1.0",
+    "ssim.js": "^3.5.0"
+  },
+  "type": "module"
+}
